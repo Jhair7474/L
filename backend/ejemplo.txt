@@ -1,3 +1,8 @@
 hola mundo
+<<<<<<< HEAD
 hola m undo
 buenas hola 
+=======
+hola mundo
+buenas jorge gay11444
+>>>>>>> d9f24f4b6b7af05283ca9fc278519ca499eb2734
